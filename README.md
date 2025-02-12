@@ -19,7 +19,7 @@ pip install opencv-python torch torchvision torchaudio ultralytics numpy
 ## Usage
 Run the following command to start the object detection system:
 ```bash
-python AI_Object_Detection.py
+python Object_Detection_for_Home_Security.py
 ```
 
 ## How It Works
